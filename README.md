@@ -6,4 +6,4 @@
 
 #### Implemented with pure CSS3, horizontal scrolling provides smooth animations and high performance without using JavaScript. ✨ ####
 #### Easily customizable and adaptable to any design, making it the perfect choice for creating modern web applications and websites. 💡 ####
-#### *Ideal for creating image galleries, portfolios, and other visually rich projects.* ####
+#### *Ideal for creating image galleries, portfolios and other visually rich projects.* ####
